@@ -1,0 +1,142 @@
+@font-face {
+    font-family: bebas;
+    src: url("../bebas/Bebas-Regular.ttf");
+  }
+.fixFont{
+    font-family: bebas;
+}
+.navbar-light .navbar-brand{
+    font-family: bebas;
+    color: #e8603c;
+    font-size: 36px;
+}
+.navbar-light .navbar-brand span{
+    color: #f3af9d;
+}
+.navbar-light .navbar-nav .nav-link{
+    font-family: bebas;
+}
+.navbar-light .navbar-nav .show > .nav-link, 
+.navbar-light .navbar-nav .nav-link.active{
+    color: #e8603c;
+}
+.bg-light{
+    background: none !important;
+}
+.recent{
+    line-height: 24px;
+    color: #e8603c;
+    
+}
+.icon{
+    padding-left: 80px;
+    line-height: 24px;
+    color: #e8603c;
+}
+.icon1{
+    background: url("../images/icon_banhRang.png") no-repeat left top;
+	
+}
+.icon2{
+    background: url("../images/icon_V.png") top left no-repeat;
+    
+}
+.icon3{
+    background: url("../images/icon_user.png") top left no-repeat;
+}
+
+.carousel-caption {
+    position: absolute;
+    background: rgba(255, 0, 0, 0.4);
+    bottom: 1.25rem;
+    padding: 20px 50px;
+    padding-bottom: 2.25rem;
+    color: #fff;
+    text-align: justify;
+    
+}
+
+.more{
+    text-decoration: none;
+    padding: 10px 15px;
+    background: #e8603c;
+}
+.text_white{
+    color: #fff !important;
+}
+.text_b9{
+    color: #b9b9b9 !important;
+}
+.border{
+    border-top: none !important;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.fixFont{
+    font-size: 16pt;
+    line-height: 18pt;
+    color: #e8603c;
+    
+    
+}
+.border .day{
+    font-family: bebas;
+    font-size: 11pt;
+    line-height: 18pt;
+    color: #e8603c;
+}
+
+footer{
+    /* height: 263px; */
+    background-color: #e8603c;
+    margin-top: 60px;
+}
+footer .textheader{
+    font-size: 20pt;
+    color: #fff;
+    font-family: bebas;
+    font-weight: bold;
+}
+footer .textabout{
+    font-size: 12pt;
+    color: #fff;
+   
+}
+footer .margin{
+    padding: 20px;
+}
+footer .textabout a{
+    text-decoration: none;
+    font-size: 12pt;
+    line-height: 14pt;
+    color: #f7eae6;
+    opacity: 0.7;
+}
+.btn{
+    border: none;
+    color: #fff;
+    padding: 12px 16px;
+    cursor: pointer;
+    margin-right: 20px;
+    border: 1px solid rgb(127, 127, 211);
+}
+.btn i{
+    font-size: 18pt;
+    line-height: 20pt;
+}
+
+.bg_blue{
+    background-color: blue;
+}
+.bg_sky{
+    background-color: skyblue;
+}
+.bg_snow{
+    background-color: #ddd;
+}
+.bg_orange{
+    background-color: rgb(233, 174, 64);
+}
+.bg_pupre{
+    background-color: rgb(126, 133, 233);
+}
